@@ -1,8 +1,11 @@
 hspd = 0 
 vspd = 0 
 grv = .3
-spd = 3
+spd = 5
 jumpspd = - 5
+hp_max = 3
+hp = hp_max
+invencivel = false
 
 function player()
 {
