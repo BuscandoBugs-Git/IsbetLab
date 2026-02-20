@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sprites_generos",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sprites_generos",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

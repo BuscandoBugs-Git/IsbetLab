@@ -7,8 +7,28 @@ hp_max = 3
 hp = hp_max
 invencivel = false
 
-function player()
+data = new masc()
+
+switch global.genero
 {
+	case 0:
+	{
+		data = new masc()
+		break
+	}
+	
+	case 1:
+	{
+		data = new fem()
+		break
+	}
+}
+
+	sprite_index = data.idle
+
+
+function player()
+{	
 	var left,right,jump
 	left = keyboard_check(ord("A"))
 	right = keyboard_check(ord("D"))
@@ -36,4 +56,6 @@ function player()
 	}
 	x += hspd 
 	y += vspd
+	
+
 }
