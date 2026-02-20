@@ -42,6 +42,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"spr_chao","path":"sprites/spr_chao/spr_chao.yy",},},
     {"id":{"name":"spr_player","path":"sprites/spr_player/spr_player.yy",},},
+    {"id":{"name":"spr_poder_martelo","path":"sprites/spr_poder_martelo/spr_poder_martelo.yy",},},
     {"id":{"name":"spr_tijolin","path":"sprites/spr_tijolin/spr_tijolin.yy",},},
     {"id":{"name":"Sprite4","path":"sprites/Sprite4/Sprite4.yy",},},
   ],
